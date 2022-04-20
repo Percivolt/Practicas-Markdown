@@ -2,4 +2,5 @@
 
 _There are many variations of passages of Lorenersum is therefore always free from repetition, injected humour, or non-characteristic words etc-_
 
-!(file:///C:/Users/gf0604-1/Markdown%20practica/md-imagen.png)
+![Texto opcional](https://gf0604-procesamientodatosgeograficos.github.io/2022-i/img/md-imagen.png) 
+
