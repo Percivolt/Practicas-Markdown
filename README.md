@@ -1,2 +1,5 @@
-# Practicas-Markdown
-Primera práctica markdown
+# Primer repositorio Github
+
+_There are many variations of passages of Lorenersum is therefore always free from repetition, injected humour, or non-characteristic words etc-_
+
+![Texto opcional](file:///C:/Users/gf0604-1/Markdown%20practica/md-imagen.png)
